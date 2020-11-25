@@ -41,7 +41,6 @@ Web Development Resources
 - https://bootstrapmade.com/ - Free Bootstrap Templates
 - https://designhooks.com/ - Free Resources for Web Designers & Developers
 - http://www.phpscriptdemos.com/ - Browse the PHP Script Demos
-
 - https://www.creative-tim.com/ - Fully coded design resources for web developers
 
 
@@ -61,6 +60,10 @@ Web Development Resources
 - https://liveweave.com/ - Liveweave is a HTML, CSS & JavaScript playground for web designers and developers.
 - https://tutorialzine.com/ - Community of talented developers who learn together.
 - https://codepen.io/ - CodePen: Online Code Editor and Front End Web Developer Tools
+- https://bbbootstrap.com/ - Hello, Designers and Developers find the Cool snippets for your project made with Jquery, HTML, CSS, Bootstrap
+- https://css-tricks.com/ - Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
+- http://www.javascriptkit.com/ - Your comprehensive JavaScript, DHTML, CSS, and Ajax stop.
+- https://download.code-projects.org/ - Code Projects is developed to provide beginners with tutorials, source code, and projects to build their technical knowledge and ideas
 
 
 *SEO and Site Optomisation Tools*
@@ -75,6 +78,8 @@ Web Development Resources
 - https://egghead.io/ - Concise screencast video tutorials that cover the best tools, libraries, and frameworks that modern javascript web developers can use to code more effectively
 - https://www.traversymedia.com/ - WEB DEVELOPMENT TUTORIALS & COURSES
 - https://www.shl.com/shldirect/en/practice-tests/ - Preemployment Online Tests
+- https://www.freecodecamp.org/news/ - Learn to code at home. Build projects. Earn certifications. 
+- https://css-tricks.com/ - Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 Microsoft and Cloud
@@ -103,6 +108,9 @@ Graphics UI Design Resources
 - https://www.pixelsurplus.com/ - Resources For Creatives
 - https://mrmockup.com/ - Mockups
 - https://www.pixeden.com/ - Premium Design & Web Resources
+- https://365webresources.com/ - 365 Web Resources
+- https://www.vectorstock.com/royalty-free-vectors - Royalty Free Vectors (22,954,849)
+
 
 
 
@@ -113,6 +121,9 @@ Graphics UI Design Resources
 - https://www.smashingmagazine.com/ - Editorial content and professional resources for web developers and web designers
 - https://blog.hubspot.com/ - HubSpot's Blog for marketing, sales, agency, and customer success content
 - https://csshint.com/ - Free hand-picked HTML and CSS code examples, tutorials and articles. jQuery plugins.
+- https://quizlet.com/137195186/cloud-computing-study-guide-1-flash-cards/ -Cloud Computing Study Guide 1
+- https://www.developer.com/ - Latest Developer News
+
 
 
 
@@ -121,6 +132,7 @@ Graphics UI Design Resources
 Document Resources
 - https://www.scribd.com/ - Endless entertainment and knowledge
 - https://scribddown.com/ - Scribd Downloader
+- https://www.vertex42.com/ - professionally designed spreadsheet templates for business,
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Company Services

@@ -11,6 +11,8 @@ Shortcuts to useful tools and techniques I have often forgotten
 Web Development Resources
 
 *CDN Quickstart Links*
+- https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css - Quick Start v4.5.2
+
 - https://www.bootstrapcdn.com/ - BootstrapCDN
 
 *Req Downloads*

@@ -25,15 +25,19 @@ Web Development Resources
 - https://codyhouse.co/ - Kick-start your projects with CodyHouse's library of 315 HTML, CSS, JS components.
 - https://canvasjs.com/ - Beautiful HTML5 Charts & Graphs
 
-*Tools*
+*Tools & REST API's*
 - https://jsonplaceholder.typicode.com/ - Free to use fake Online REST API for testing and prototyping
+- https://api.chucknorris.io/ - chucknorris.io is a free JSON API for hand curated Chuck Norris facts.
 
 *Reference*
 - https://www.w3schools.com/ - THE WORLD'S LARGEST WEB DEVELOPER SITE
 - https://developer.mozilla.org/en-US/ - Resources for developers, by developers.
 
-*Themes*
+*Rapid Prototype Creation*
+- https://octobercms.com/ OctoberCMS - Laravel based content management system;  lighter and easier replacement for Wordpress and Drupal
 
+
+*Themes*
 - https://www.free-css.com/ - Free CSS Templates, CSS Layouts & More!
 - https://html.design/ - RESPONSIVE FREE WEBSITES TEMPLATES
 - https://startbootstrap.com/ - Bootstrap themes, templates, and UI tools to help you start your next project!

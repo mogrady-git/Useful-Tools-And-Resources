@@ -10,7 +10,7 @@ Shortcuts to useful tools and techniques I have often forgotten
 
 https://flexboxfroggy.com/ - CSS Practice Games
 https://codepip.com/ - Learn to code by playing games
-Codepip is the platform for your favorite web development games. Gain an edge in your next interview or project.
+- Codepip is the platform for your favorite web development games. Gain an edge in your next interview or project.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Web Development Resources

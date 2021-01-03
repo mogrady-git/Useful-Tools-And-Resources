@@ -7,11 +7,6 @@ Shortcuts to useful tools and techniques I have often forgotten
 - https://squoosh.app/ - Image Resizer
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-https://flexboxfroggy.com/ - CSS Practice Games
-https://codepip.com/ - Learn to code by playing games
-- Codepip is the platform for your favorite web development games. Gain an edge in your next interview or project.
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Web Development Resources
 
@@ -90,6 +85,9 @@ Web Development Resources
 - https://www.shl.com/shldirect/en/practice-tests/ - Preemployment Online Tests
 - https://www.freecodecamp.org/news/ - Learn to code at home. Build projects. Earn certifications. 
 - https://css-tricks.com/ - Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
+- https://flexboxfroggy.com/ - CSS Practice Games
+- https://codepip.com/ - Learn to code by playing games
+- Codepip is the platform for your favorite web development games. Gain an edge in your next interview or project.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 Microsoft and Cloud
@@ -120,10 +118,7 @@ Graphics UI Design Resources
 - https://www.pixeden.com/ - Premium Design & Web Resources
 - https://365webresources.com/ - 365 Web Resources
 - https://www.vectorstock.com/royalty-free-vectors - Royalty Free Vectors (22,954,849)
-
-
-
-
+- https://getavataaars.com/ - Create your own profile avatar
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 *Magazines and Blogs*

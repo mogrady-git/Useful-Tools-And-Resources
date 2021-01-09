@@ -88,6 +88,8 @@ Web Development Resources
 - https://flexboxfroggy.com/ - CSS Practice Games
 - https://codepip.com/ - Learn to code by playing games
 - Codepip is the platform for your favorite web development games. Gain an edge in your next interview or project.
+- https://scotch.io/tutorials - Practical tutorials for web development. Not just how, but why.
+- https://www.digitalocean.com/community/tutorials - Tutorials Follow along with one of our 3813 development and sysadmin tutorials.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 Microsoft and Cloud

@@ -145,3 +145,7 @@ Document Resources
 Company Services
 - https://rubygarage.org/ - E-commerce & Retail software development services
 - https://devhaus.ie/ - Devhaus 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tools
+- http://www.nirsoft.net/ - NirSoft web site provides a unique collection of small and useful freeware utilities, all of them developed by Nir Sofer.

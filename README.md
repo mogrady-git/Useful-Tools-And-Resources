@@ -6,12 +6,15 @@ Shortcuts to useful tools and techniques I have often forgotten
 - https://www.gatsbyjs.com/ - Gatsby JS is a static site generator that runs on React and GraphQL. 
 - https://squoosh.app/ - Image Resizer
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Collaboration
+- https://gist.github.com/ - Instantly share code, notes, and snippets.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Cloud Platforms
 - https://vercel.com/ -Vercel is a cloud platform for static sites and Serverless Functions that fits perfectly with your workflow. It enables developers to host Jamstack websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration. 
 - https://www.heroku.com/home - Heroku is a cloud platform as a service supporting several programming languages. 
 - https://portal.azure.com/#home - Microsoft Azure, commonly referred to as Azure, is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Web Development Resources
+###Web Development Resources
 
 *CDN Quickstart Links*
 - https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css - Quick Start v4.5.2

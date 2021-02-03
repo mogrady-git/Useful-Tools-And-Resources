@@ -60,7 +60,9 @@ Shortcuts to useful tools and techniques I have often forgotten
 - https://www.bestjquery.com/ - jQueryRain : Top & Best jquery plugins, tutorials, cool effects with jquery examples
 - http://maxwellito.github.io/vivus/ - animate SVGs, giving them the appearence of being drawn
 - https://ventipix.com/designer-qr-code-generator.php - Designer QR Code Generator
-
+- https://shields.io/ - Shields and Badges in SVG and raster format for use on GitHub and other Platforms
+- https://github.com/badges/shields - Shields and Badges - Showcase for Projects
+- https://pages.github.com/ - Websites for you and your projects.
 
 *Modules and Deployments*
 - https://bitnami.com/ - Quickly install dozens of Bitnami Modules on top of the XAMPP server stack.

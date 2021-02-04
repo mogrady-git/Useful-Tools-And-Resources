@@ -47,6 +47,7 @@ Shortcuts to useful tools and techniques I have often forgotten
 
 *Themes*
 - https://www.free-css.com/ - Free CSS Templates, CSS Layouts & More!
+- https://html5up.net/ - makes spiffy HTML5 site templates
 - https://html.design/ - RESPONSIVE FREE WEBSITES TEMPLATES
 - https://startbootstrap.com/ - Bootstrap themes, templates, and UI tools to help you start your next project!
 - https://freehtml5.co/ - Free & Premium HTML5 Bootstrap Templates

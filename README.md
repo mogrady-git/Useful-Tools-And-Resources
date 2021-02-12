@@ -65,6 +65,7 @@ Shortcuts to useful tools and techniques I have often forgotten
 - https://shields.io/ - Shields and Badges in SVG and raster format for use on GitHub and other Platforms
 - https://github.com/badges/shields - Shields and Badges - Showcase for Projects
 - https://simpleicons.org/ - 1750 Free SVG icons for popular brands
+- https://simple-icons.github.io/simple-icons-website/ - 1750 Free SVG icons for popular brands
 - https://pages.github.com/ - Websites for you and your projects.
 
 *Modules and Deployments*

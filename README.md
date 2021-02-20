@@ -133,6 +133,7 @@ Graphics UI Design Resources
 - https://365webresources.com/ - 365 Web Resources
 - https://www.vectorstock.com/royalty-free-vectors - Royalty Free Vectors (22,954,849)
 - https://getavataaars.com/ - Create your own profile avatar
+- https://coolors.co/ - The super fast color schemes generator! [Generate your own Palettes]
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 *Magazines and Blogs*

@@ -67,6 +67,7 @@ Shortcuts to useful tools and techniques I have often forgotten
 - https://simpleicons.org/ - 1750 Free SVG icons for popular brands
 - https://simple-icons.github.io/simple-icons-website/ - 1750 Free SVG icons for popular brands
 - https://pages.github.com/ - Websites for you and your projects.
+- https://markdown-here.com/ - Markdown Here eliminates all the hassle of formatting email
 
 *Modules and Deployments*
 - https://bitnami.com/ - Quickly install dozens of Bitnami Modules on top of the XAMPP server stack.

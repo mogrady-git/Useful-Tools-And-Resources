@@ -36,6 +36,8 @@ Shortcuts to useful tools and techniques I have often forgotten
 *Tools & REST API's*
 - https://jsonplaceholder.typicode.com/ - Free to use fake Online REST API for testing and prototyping
 - https://api.chucknorris.io/ - chucknorris.io is a free JSON API for hand curated Chuck Norris facts.
+- https://www.html-map.com/ - HTML Map Creator - HTML image maps are one of the best ways to add multiple links to a single image see example: https://www.grubiks.com/
+
 
 *Reference*
 - https://www.w3schools.com/ - THE WORLD'S LARGEST WEB DEVELOPER SITE

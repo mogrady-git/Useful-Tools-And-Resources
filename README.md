@@ -9,6 +9,7 @@ Shortcuts to useful tools and techniques I have often forgotten
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Collaboration
 - https://gist.github.com/ - Instantly share code, notes, and snippets.
+- https://www.figma.com/ - Prototyping tool for Software Development Projects
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Cloud Platforms
 - https://vercel.com/ -Vercel is a cloud platform for static sites and Serverless Functions that fits perfectly with your workflow. It enables developers to host Jamstack websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration. 

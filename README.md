@@ -62,8 +62,7 @@ Shortcuts to useful tools and techniques I have often forgotten
 - http://www.phpscriptdemos.com/ - Browse the PHP Script Demos
 - https://www.creative-tim.com/ - Fully coded design resources for web developers
 - https://themes.3rdwavemedia.com/ - Bootstrap Themes & Templates
-
-
+- https://sharebootstrap.com/ - An ever-growing library of Free Themes and templates built with Bootstrap
 
 *Resources*
 - https://www.3dgifmaker.com/ - Welcome to 3D Gif Maker, where you can easily make Gifs and Webms from your images

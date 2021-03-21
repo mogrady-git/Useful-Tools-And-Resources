@@ -61,6 +61,8 @@ Shortcuts to useful tools and techniques I have often forgotten
 - https://designhooks.com/ - Free Resources for Web Designers & Developers
 - http://www.phpscriptdemos.com/ - Browse the PHP Script Demos
 - https://www.creative-tim.com/ - Fully coded design resources for web developers
+- https://themes.3rdwavemedia.com/ - Bootstrap Themes & Templates
+
 
 
 *Resources*

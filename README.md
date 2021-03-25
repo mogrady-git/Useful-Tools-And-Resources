@@ -76,6 +76,7 @@ Shortcuts to useful tools and techniques I have often forgotten
 - https://pages.github.com/ - Websites for you and your projects.
 - https://markdown-here.com/ - Markdown Here eliminates all the hassle of formatting email
 - https://unsplash.com/ - The internet’s source of freely-usable images. Powered by creators everywhere.
+- https://worldvectorlogo.com/ - DOWNLOAD VECTOR LOGOS of brands you love
 
 *Modules and Deployments*
 - https://bitnami.com/ - Quickly install dozens of Bitnami Modules on top of the XAMPP server stack.

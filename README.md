@@ -31,6 +31,7 @@ Shortcuts to useful tools and techniques I have often forgotten
 - <a href="https://github.com/drawrowfly">Other Web Scrapers</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Notable API's - Datasource's and Mapping
+- https://rapidapi.com/ - The Next-Generation API Platform Find, Connect to, and Manage thousands of APIs
 - https://swagger.io/tools/swaggerhub/ - Accelerating API delivery and quality through standards and collaboration, built on OpenAPI.
 - https://app.swaggerhub.com/search - Search public APIs and Domains in SwaggerHub
 - https://www.mapbox.com/ - Opensource Maps and location for developers - Precise location data and powerful developer tools to change the way we navigate the world.

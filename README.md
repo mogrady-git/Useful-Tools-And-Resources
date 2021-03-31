@@ -6,6 +6,7 @@ Shortcuts to useful tools and techniques I have often forgotten
 - https://www.gatsbyjs.com/ - Gatsby JS is a static site generator that runs on React and GraphQL. 
 - https://squoosh.app/ - Image Resizer
 - https://emojipedia.org/ - Emojipedia 
+- https://libraries.io/ - Search open source packages, frameworks and tools &  Discover new software
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Collaboration
 - https://gist.github.com/ - Instantly share code, notes, and snippets.
@@ -13,6 +14,7 @@ Shortcuts to useful tools and techniques I have often forgotten
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Social Media Monitoring, Trends and Analytics ~ Sample topics
 - https://www.crowdtangle.com/ - A tool from Facebook to help follow, analyze, and report on what’s happening across social media.
+- https://help.crowdtangle.com/en/articles/3443476-api-cheat-sheet - CrowdTangle API.
 - https://apps.crowdtangle.com/covid19/boards/covid-19ireland - COVID-19 IRELAND MEDIA {HOT} - VACCINE MENTIONS {HOT} - {FACEBOOK GROUPS {HOT} :
 - https://medialab.sciencespo.fr/en/tools/dmi-tools/ - a collection of useful digital instruments for sociologists, built by the Digital Methods Initiative at the University of Amsterdam
 - <a href="https://github.com/digitalmethodsinitiative">Digital Methods Initiative</a>

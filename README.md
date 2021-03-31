@@ -14,10 +14,23 @@ Shortcuts to useful tools and techniques I have often forgotten
 ### Social Media Monitoring, Trends and Analytics ~ Sample topics
 - https://www.crowdtangle.com/ - A tool from Facebook to help follow, analyze, and report on what’s happening across social media.
 - https://apps.crowdtangle.com/covid19/boards/covid-19ireland - COVID-19 IRELAND MEDIA {HOT} - VACCINE MENTIONS {HOT} - {FACEBOOK GROUPS {HOT} :
-
-
+- https://medialab.sciencespo.fr/en/tools/dmi-tools/ - a collection of useful digital instruments for sociologists, built by the Digital Methods Initiative at the University of Amsterdam
+- <a href="https://github.com/digitalmethodsinitiative">Digital Methods Initiative</a>
+- <a href="https://github.com/digitalmethodsinitiative/4cat">4CAT: Capture and Analysis Toolkit</a>
+<a href="https://github.com/digitalmethodsinitiative/dmi-tcat">Digital Methods Initiative - Twitter Capture and Analysis Toolset</a>
+<a href="https://github.com/digitalmethodsinitiative/dmi-amazon-recscraper">Amazon Recommendation Scraper</a>
+<a href="https://github.com/digitalmethodsinitiative/dmi-instascraper">A GUI for Instaloader to scrape users and hashtags with on Instagram</a>
+<a href="https://github.com/digitalmethodsinitiative/brightbeam">A fork of Mozilla Lightbeam made for tracker research.</a>
+<a href="https://github.com/digitalmethodsinitiative/google-play-scraper">Simple Google Play Store scraper</a>
+<a href="https://github.com/digitalmethodsinitiative/itunes-app-scraper">A simple Python scraper for the iTunes App Store</a>
+<a href="https://github.com/digitalmethodsinitiative/instagram-batch-scrape">https://github.com/digitalmethodsinitiative/instagram-batch-scrape</a>
+<a href="https://instaloader.github.io/">Instaloader is a tool to download pictures (or videos) along with their captions and other metadata from Instagram.</a>
+<a href="https://github.com/drawrowfly/tiktok-scraper">TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.</a>
+<a href="https://github.com/drawrowfly">Other Web Scrapers</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Notable API's - Datasource's and Mapping
+- https://swagger.io/tools/swaggerhub/ - Accelerating API delivery and quality through standards and collaboration, built on OpenAPI.
+- https://app.swaggerhub.com/search - Search public APIs and Domains in SwaggerHub
 - https://www.mapbox.com/ - Opensource Maps and location for developers - Precise location data and powerful developer tools to change the way we navigate the world.
 - https://www.openstreetmap.org/about - OpenStreetMap provides map data for thousands of web sites, mobile apps, and hardware devices
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

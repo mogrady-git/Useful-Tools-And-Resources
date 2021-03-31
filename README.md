@@ -11,6 +11,16 @@ Shortcuts to useful tools and techniques I have often forgotten
 - https://gist.github.com/ - Instantly share code, notes, and snippets.
 - https://www.figma.com/ - Prototyping tool for Software Development Projects
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Social Media Monitoring, Trends and Analytics ~ Sample topics
+- https://www.crowdtangle.com/ - A tool from Facebook to help follow, analyze, and report on what’s happening across social media.
+- https://apps.crowdtangle.com/covid19/boards/covid-19ireland - COVID-19 IRELAND MEDIA {HOT} - VACCINE MENTIONS {HOT} - {FACEBOOK GROUPS {HOT} :
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Notable API's - Datasource's and Mapping
+- https://www.mapbox.com/ - Opensource Maps and location for developers - Precise location data and powerful developer tools to change the way we navigate the world.
+- https://www.openstreetmap.org/about - OpenStreetMap provides map data for thousands of web sites, mobile apps, and hardware devices
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Cloud Platforms
 - https://vercel.com/ -Vercel is a cloud platform for static sites and Serverless Functions that fits perfectly with your workflow. It enables developers to host Jamstack websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration. 
 - https://www.heroku.com/home - Heroku is a cloud platform as a service supporting several programming languages. 
@@ -153,9 +163,7 @@ Graphics UI Design Resources
 - https://csshint.com/ - Free hand-picked HTML and CSS code examples, tutorials and articles. jQuery plugins.
 - https://quizlet.com/137195186/cloud-computing-study-guide-1-flash-cards/ -Cloud Computing Study Guide 1
 - https://www.developer.com/ - Latest Developer News
-## https://www.dbooks.org/ - Welcome to dBooks Library FREE DOWNLOAD OPEN BOOKS -  compiled from Stack Overflow Documentation
-
-
+### https://www.dbooks.org/ - Welcome to dBooks Library FREE DOWNLOAD OPEN BOOKS -  compiled from Stack Overflow Documentation
 
 
 
@@ -173,3 +181,6 @@ Company Services
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tools
 - http://www.nirsoft.net/ - NirSoft web site provides a unique collection of small and useful freeware utilities, all of them developed by Nir Sofer.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+

@@ -12,6 +12,11 @@ Shortcuts to useful tools and techniques I have often forgotten
 - https://gist.github.com/ - Instantly share code, notes, and snippets.
 - https://www.figma.com/ - Prototyping tool for Software Development Projects
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Linux | Bash | Shell | VIM
+- https://opensource.com/article/19/12/bash-script-template - Bash script header template
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Social Media Monitoring, Trends and Analytics ~ Sample topics
 - https://www.crowdtangle.com/ - A tool from Facebook to help follow, analyze, and report on what’s happening across social media.
 - https://help.crowdtangle.com/en/articles/3443476-api-cheat-sheet - CrowdTangle API.
@@ -44,8 +49,7 @@ Shortcuts to useful tools and techniques I have often forgotten
 - https://www.heroku.com/home - Heroku is a cloud platform as a service supporting several programming languages. 
 - https://portal.azure.com/#home - Microsoft Azure, commonly referred to as Azure, is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-###Web Development Resources
-
+### Web Dev Resources
 *Demos of open web technologies*
 - https://developer.mozilla.org/en-US/docs/Web/Demos_of_open_web_technologies
 
@@ -128,7 +132,6 @@ Shortcuts to useful tools and techniques I have often forgotten
 - https://gtmetrix.com/ - How fast does your website load?  Find out with GTmetrix
 
 
-
 *Training and Learning*
 - https://egghead.io/ - Concise screencast video tutorials that cover the best tools, libraries, and frameworks that modern javascript web developers can use to code more effectively
 - https://www.traversymedia.com/ - WEB DEVELOPMENT TUTORIALS & COURSES
@@ -181,9 +184,7 @@ Graphics UI Design Resources
 - https://csshint.com/ - Free hand-picked HTML and CSS code examples, tutorials and articles. jQuery plugins.
 - https://quizlet.com/137195186/cloud-computing-study-guide-1-flash-cards/ -Cloud Computing Study Guide 1
 - https://www.developer.com/ - Latest Developer News
-### https://www.dbooks.org/ - Welcome to dBooks Library FREE DOWNLOAD OPEN BOOKS -  compiled from Stack Overflow Documentation
-
-
+- https://www.dbooks.org/ - Welcome to dBooks Library FREE DOWNLOAD OPEN BOOKS -  compiled from Stack Overflow Documentation
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Document Resources

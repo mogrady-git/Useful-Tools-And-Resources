@@ -7,6 +7,11 @@ Shortcuts to useful tools and techniques I have often forgotten
 - https://squoosh.app/ - Image Resizer
 - https://emojipedia.org/ - Emojipedia 
 - https://libraries.io/ - Search open source packages, frameworks and tools &  Discover new software
+- 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Useful Libaries
+- http://imakewebthings.com/waypoints/ - Waypoints is the easiest way to trigger a function when you scroll to an element. - infinite scroll etc
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Collaboration
 - https://gist.github.com/ - Instantly share code, notes, and snippets.
